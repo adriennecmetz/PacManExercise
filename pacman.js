@@ -1,7 +1,7 @@
 var pos = 0;
 let pageWidth = window.innerWidth;
 const pacArray = [
-  ["PacMan1.png", "images/PacMan2.png"],
+  ["images/PacMan1.png", "images/PacMan2.png"],
     ["images/PacMan3.png",
         "images/PacMan4.png"],
 ];
